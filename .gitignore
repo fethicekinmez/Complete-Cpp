@@ -30,7 +30,6 @@
 *.exe
 *.out
 *.app
-*
 
 # macOS system files
 .DS_Store
@@ -38,3 +37,6 @@
 ._*
 .Spotlight-V100
 .Trashes
+
+# VS Code files
+.vscode/
