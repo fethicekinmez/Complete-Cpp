@@ -30,6 +30,8 @@
 *.exe
 *.out
 *.app
+main
+!main.cpp
 
 # macOS system files
 .DS_Store
